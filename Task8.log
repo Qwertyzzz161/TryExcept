@@ -1,0 +1,6 @@
+Task8 2024-06-27 21:25:46,536 ERROR Произошла ошибка: 'set' object has no attribute 'split'
+Traceback (most recent call last):
+  File "C:\Users\Ernest\Desktop\Python\Block2\pythonProject\Task8.py", line 21, in task8
+    spis = a.split()
+           ^^^^^^^
+AttributeError: 'set' object has no attribute 'split'

@@ -1,0 +1,7 @@
+Task6 2024-06-27 21:28:24,613 INFO Коэффициенты: a = 10, b = 2, c = 3
+Task6 2024-06-27 21:28:24,613 INFO Корней нет.
+Task6 2024-06-27 21:28:24,614 ERROR Произошла ошибка: Отрицательный дискриминант. Попробуйте другие коэффициенты
+Traceback (most recent call last):
+  File "C:\Users\Ernest\Desktop\Python\Block2\pythonProject\Task6.py", line 29, in task6
+    raise ValueError("Отрицательный дискриминант. Попробуйте другие коэффициенты")
+ValueError: Отрицательный дискриминант. Попробуйте другие коэффициенты
